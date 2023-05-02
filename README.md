@@ -1,6 +1,6 @@
 # Vikash Vishwakarma's GitHub Profile
 
-Hi there! 👋
+Hi! 👋
 
 As a highly skilled frontend developer with expertise in React.js, Angular, PHP, Laravel, HTML, CSS, Redux, Node.js, Express.js, and JavaScript, I am deeply passionate about creating visually appealing and user-friendly websites. My proficiency in HTML, CSS, and JavaScript allows me to craft seamless user experiences, leveraging performance optimization techniques and adhering to accessibility standards with unwavering dedication. With a keen eye for detail and a strong commitment to excellence, I am skilled at creating websites that deliver exceptional user experiences.
 
